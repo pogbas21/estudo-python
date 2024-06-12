@@ -1,0 +1,3 @@
+def contador(i, f, p):...
+
+help(contador)

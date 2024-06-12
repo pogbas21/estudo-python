@@ -1,0 +1,8 @@
+print('-' * 30)
+print('desempenho          ')
+print('-' * 30) 
+print('-' * 30)
+print('programação de sistema  ')
+print('-' * 30)
+print('-' * 30)
+print('analista de dados     ')
