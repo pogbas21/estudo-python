@@ -1,0 +1,12 @@
+times = ('corinthias', 'palmeiras,' , 'santos', 'gremio','cruzeiro', 'flamengo',  ' vasco', 'chapecoense', ' atletico', 'botafogo', 'atletico-pr', 'bahia', 'sao paulo', 'fluminense', 'sport recife', 'ec vitoria', 'coritiba', 'avai', 'ponte preta','atletico-go')
+
+print('-='  * 15)
+print(f'lista de times: {times}')
+print('-='  * 15)
+print(f'os 5 primeiros times sao: {times[0:5]}')
+print('-='  * 15)
+print(f'os ultimos 4 colocados são:{times[-4:]}')
+print('-='  * 15)
+print(f'os times em ordem alfabeticas:{sorted(times)}')
+print('-='  * 15)
+print(f'a chapecoense esta {times.index('chapecoense')} posição')
