@@ -1,3 +1,7 @@
-galera = [['joao',19], ['pedro',18],['ana',20]]
-for p in galera:
-    print(p)
+def soma(a, b):
+    print(f'a = {a} e b = {b}')
+    s = a + b
+    print(f'a soma a + b = {s}')
+     
+
+soma(4, 5)
